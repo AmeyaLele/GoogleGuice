@@ -1,0 +1,3 @@
+com\accenture\guice\MessageService.class
+com\accenture\guice\EmailService.class
+com\accenture\guice\TwitterService.class
